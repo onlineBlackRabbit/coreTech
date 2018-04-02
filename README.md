@@ -1,2 +1,0 @@
-# coreTech
-coreTech
